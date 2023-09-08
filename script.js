@@ -68,15 +68,17 @@ document.addEventListener("DOMContentLoaded", function () {
             }
         });
 
-        // Function to display filtered data on the page
         function displayFilteredData(filteredData) {
             resultContainer.innerHTML = ""; // Clear previous results
-
+        
             if (filteredData.length > 0) {
                 for (const item of filteredData) {
-                    const resultElement = document.createElement("div");
-                    resultElement.textContent = `Name: ${item.name}, Specialty: ${item.specialty}`;
-                    resultContainer.appendChild(resultElement);
+                    const userContainer = document.createElement("div");
+                    userContainer.classList.add("user-box"); // Add a class for styling
+                    const userInfo = document.createElement("div");
+                    userInfo.textContent = `Name: ${item.name}, Specialty: ${item.specialty}`;
+                    userContainer.appendChild(userInfo);
+                    resultContainer.appendChild(userContainer);
                 }
             } else {
                 resultContainer.textContent = "No matching professionals found.";
@@ -84,55 +86,3 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 });
-
-// document.addEventListener("DOMContentLoaded", function () {
-//     // Sample data for autocomplete
-//     const data = [
-//         "English",
-//         "Arabic",
-//         "Punjabi",
-//         "Spanish",
-//         "Vietnamese",
-//         "Mandarin",
-//         "Indonesian",
-//         "Cantonese"
-//     ];
-
-    
-//     const searchInput = document.getElementById("searchInput");
-//     const autocompleteResults = document.getElementById("autocompleteResults");
-
-//     searchInput.addEventListener("input", function () {
-//         const searchTerm = searchInput.value.toLowerCase();
-//         const matches = [];
-
-//         for (const option of data) {
-//             if (! option) {
-//                 continue;
-//             }
-//             if (option.toLowerCase().includes(searchTerm)) {
-//                 matches.push(option);
-//             }
-//         }
-
-//         displayAutocompleteResults(matches);
-//     });
-
-//     function displayAutocompleteResults(matches) {
-//         if (matches.length > 0) {
-//             const resultsHTML = matches.map(match => `<div>${match}</div>`).join("");
-//             autocompleteResults.innerHTML = resultsHTML;
-//             autocompleteResults.style.display = "block";
-//         } else {
-//             autocompleteResults.innerHTML = "";
-//             autocompleteResults.style.display = "none";
-//         }
-//     }
-
-//     autocompleteResults.addEventListener("click", function (event) {
-//         if (event.target.tagName === "DIV") {
-//             searchInput.value = event.target.textContent;
-//             autocompleteResults.style.display = "none";
-//         }
-//     });
-// });
