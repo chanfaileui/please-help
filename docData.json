@@ -7,7 +7,7 @@
   },
   {
     "name": "Linet",
-    "specialty": "Optometrist",
+    "specialty": "Psychiatrist",
     "language": "Spanish",
     "postcode": 2844
   },
@@ -19,7 +19,7 @@
   },
   {
     "name": "Geri",
-    "specialty": "Optometrist",
+    "specialty": "Psychiatrist",
     "language": "Spanish",
     "postcode": 2526
   },
@@ -31,7 +31,7 @@
   },
   {
     "name": "Brigida",
-    "specialty": "Dentist",
+    "specialty": "Oncologist",
     "language": "Japanese",
     "postcode": 1923
   },
@@ -49,19 +49,19 @@
   },
   {
     "name": "Constance",
-    "specialty": "Optometrist",
+    "specialty": "Psychiatrist",
     "language": "Cantonese",
     "postcode": 2974
   },
   {
     "name": "Shalne",
-    "specialty": "Optometrist",
+    "specialty": "Psychiatrist",
     "language": "Cantonese",
     "postcode": 2501
   },
   {
     "name": "Florette",
-    "specialty": "Optometrist",
+    "specialty": "Psychiatrist",
     "language": "English",
     "postcode": 2283
   },
@@ -73,13 +73,13 @@
   },
   {
     "name": "Tiena",
-    "specialty": "Optometrist",
+    "specialty": "Psychiatrist",
     "language": "Italian",
     "postcode": 2096
   },
   {
     "name": "Fenelia",
-    "specialty": "Dentist",
+    "specialty": "Oncologist",
     "language": "Chinese",
     "postcode": 2176
   },
@@ -241,7 +241,7 @@
   },
   {
     "name": "Phelia",
-    "specialty": "Optometrist",
+    "specialty": "Oncologist",
     "language": "Chinese",
     "postcode": 2642
   },
@@ -259,7 +259,7 @@
   },
   {
     "name": "Renata",
-    "specialty": "Optometrist",
+    "specialty": "Oncologist",
     "language": "Japanese",
     "postcode": 2710
   },
@@ -271,7 +271,7 @@
   },
   {
     "name": "Shir",
-    "specialty": "Optometrist",
+    "specialty": "Oncologist",
     "language": "English",
     "postcode": 2026
   },
@@ -289,7 +289,7 @@
   },
   {
     "name": "Dore",
-    "specialty": "Optometrist",
+    "specialty": "Oncologist",
     "language": "Italian",
     "postcode": 1802
   },
@@ -307,7 +307,7 @@
   },
   {
     "name": "Susanne",
-    "specialty": "Optometrist",
+    "specialty": "Oncologist",
     "language": "Cantonese",
     "postcode": 2630
   },
@@ -361,19 +361,19 @@
   },
   {
     "name": "Audre",
-    "specialty": "GP",
+    "specialty": "Physiotherapist",
     "language": "Japanese",
     "postcode": 2227
   },
   {
     "name": "Brooke",
-    "specialty": "GP",
+    "specialty": "Physiotherapist",
     "language": "Chinese",
     "postcode": 1963
   },
   {
     "name": "Faythe",
-    "specialty": "GP",
+    "specialty": "Physiotherapist",
     "language": "Spanish",
     "postcode": 2612
   },
@@ -391,13 +391,13 @@
   },
   {
     "name": "Daryn",
-    "specialty": "GP",
+    "specialty": "Physiotherapist",
     "language": "English",
     "postcode": 2661
   },
   {
     "name": "Sherilyn",
-    "specialty": "GP",
+    "specialty": "Physiotherapist",
     "language": "Japanese",
     "postcode": 2244
   },
@@ -421,7 +421,7 @@
   },
   {
     "name": "Saree",
-    "specialty": "GP",
+    "specialty": "Physiotherapist",
     "language": "Spanish",
     "postcode": 2201
   },
@@ -499,19 +499,19 @@
   },
   {
     "name": "Bobette",
-    "specialty": "GP",
+    "specialty": "Psychiatrist",
     "language": "Spanish",
     "postcode": 2213
   },
   {
     "name": "Grissel",
-    "specialty": "GP",
+    "specialty": "Psychiatrist",
     "language": "Cantonese",
     "postcode": 1837
   },
   {
     "name": "Teena",
-    "specialty": "GP",
+    "specialty": "Psychiatrist",
     "language": "Japanese",
     "postcode": 1914
   },
@@ -523,7 +523,7 @@
   },
   {
     "name": "Agretha",
-    "specialty": "GP",
+    "specialty": "Psychiatrist",
     "language": "English",
     "postcode": 2830
   },
@@ -541,7 +541,7 @@
   },
   {
     "name": "Delcina",
-    "specialty": "GP",
+    "specialty": "Psychiatrist",
     "language": "English",
     "postcode": 2842
   },
@@ -577,19 +577,19 @@
   },
   {
     "name": "Jacquetta",
-    "specialty": "Optometrist",
+    "specialty": "Psychiatrist",
     "language": "English",
     "postcode": 2343
   },
   {
     "name": "Maurizia",
-    "specialty": "Dentist",
+    "specialty": "Oncologist",
     "language": "Japanese",
     "postcode": 2376
   },
   {
     "name": "Colene",
-    "specialty": "Optometrist",
+    "specialty": "Psychiatrist",
     "language": "English",
     "postcode": 2943
   },
